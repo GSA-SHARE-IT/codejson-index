@@ -121,7 +121,7 @@ Thank you for considering contributing to an Open Source project of the US Gover
 
 ## Codeowners
 
-The contents of this repository are managed by the GSA SHARE IT team. Those responsible for the code and documentation in this repository can be found in [CODEOWNERS.md](.github/CODEOWNERS.md).
+The contents of this repository are managed by the Federal SHARE IT Act Working Group. Those responsible for the code and documentation in this repository can be found in [CODEOWNERS.md](.github/CODEOWNERS.md).
 
 ## Community
 
